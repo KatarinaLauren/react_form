@@ -1,0 +1,16 @@
+.form-check {
+  display: block;
+  width: 300px;
+  padding: 0.3em;
+}
+
+.success {
+  color: green;
+  font-weight: bold;
+  padding: 2em;
+  background: lightgoldenrodyellow;
+}
+
+.error {
+  color: red;
+}
